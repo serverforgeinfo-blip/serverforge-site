@@ -25,6 +25,8 @@ MINECRAFT-ONLY PACKAGES
 - Custom Build: from $19 (small) / $79+ (large)
 - Custom Plugin Development (Paper/Spigot/Purpur, no mods): from $35
 - Custom Data Pack: from $15
+
+Important: We do not create Minecraft mods or texture packs.
 - Resource Pack / Texture Pack: from $25
 
 DISCORD-ONLY PACKAGES
