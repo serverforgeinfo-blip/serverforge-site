@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101725"/>
+      <stop offset="1" stop-color="#1E2E3F"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="128" y1="168" x2="392" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D9E3F0"/>
+      <stop offset="1" stop-color="#8A9BB0"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="224" y1="86" x2="304" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFD38A"/>
+      <stop offset="0.55" stop-color="#FF8F3D"/>
+      <stop offset="1" stop-color="#E44C1F"/>
+    </linearGradient>
+    <filter id="glow" x="154" y="70" width="204" height="172" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur"/>
+    </filter>
+  </defs>
+
+  <rect x="30" y="30" width="452" height="452" rx="94" fill="url(#bg)"/>
+  <path d="M256 78L394 151V287C394 353 340 408 256 434C172 408 118 353 118 287V151L256 78Z" stroke="#6F8398" stroke-width="14"/>
+
+  <g filter="url(#glow)">
+    <path d="M256 89C275 109 282 126 282 140C282 163 263 178 256 188C249 178 230 163 230 140C230 126 237 109 256 89Z" fill="url(#ember)"/>
+  </g>
+
+  <path d="M170 292H342C342 318 320 340 292 340H182C175 340 170 335 170 328V292Z" fill="url(#steel)"/>
+  <rect x="145" y="340" width="222" height="34" rx="10" fill="#AEBBCC"/>
+  <rect x="206" y="252" width="100" height="26" rx="10" fill="#C4CFDD"/>
+  <path d="M307 198L350 241L329 262L286 218L307 198Z" fill="#B5C3D5"/>
+  <rect x="333" y="175" width="25" height="76" rx="8" transform="rotate(45 333 175)" fill="#6E7F95"/>
+  <path d="M197 226L168 255" stroke="#FF8B3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M218 214L195 237" stroke="#FFB264" stroke-width="8" stroke-linecap="round"/>
+</svg>

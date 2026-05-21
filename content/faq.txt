@@ -1,0 +1,43 @@
+SERVERFORGE FAQ
+
+Q: What exactly do I get when I buy a complete package?
+A: A fully configured Minecraft server (plugins installed, world built, permissions set, anti-cheat configured) plus a matching Discord server (roles, channels, bots, welcome flow, moderation tools, verification system). Both are themed to match each other and ready to launch.
+
+Q: Do you provide hosting too?
+A: No. We focus on forging the build itself. We recommend trusted hosting providers and provide full upload and deployment instructions.
+
+Q: Do you make custom Minecraft mods?
+A: No. We do not create Forge/Fabric mods. We specialize in plugins (Paper/Spigot/Purpur), data packs, resource packs, builds, and server configurations.
+
+Q: Do you build custom Discord bots from scratch?
+A: Yes, as code delivery only. You receive a clean, documented codebase that you host. We can point you to free hosting options like Railway, Replit, or VPS providers.
+
+Q: Can I request something completely custom?
+A: Absolutely. Custom work is our specialty. Share your vision (theme, gameplay style, community size, mechanics) and we will forge it.
+
+Q: How long does an order take?
+A: It depends on scope. A single data pack can take 3 to 5 days. A full Minecraft + Discord package usually takes 1 to 3 weeks. We provide an exact timeline before starting.
+
+Q: What Minecraft versions and server software do you support?
+A: We support the latest stable versions of Paper, Spigot, and Purpur.
+
+Q: Do you offer support after delivery?
+A: Yes. Every package includes a free post-launch support window (typically 7 to 14 days, depending on package size). Extended support is available as an add-on.
+
+Q: Can I buy just one thing, like a single plugin or Discord setup?
+A: Yes. Everything is modular. You can buy individual services independently.
+
+Q: Do I own the server files and custom code?
+A: 100% yes. After payment is complete, all files, configs, custom plugins, builds, bot code, and Discord templates are fully yours.
+
+Q: What payment methods do you accept?
+A: PayPal only for now. A 50% deposit secures your slot; the remaining 50% is due on delivery.
+
+Q: What if I do not like the result?
+A: We work with check-in points and revisions during production. We do not consider a project done until you are happy with the agreed scope.
+
+Q: Can I resell what you build for me?
+A: Personal and own-community use is unlimited. Reselling as-is to third parties is not allowed. Commercial licensing is available for agencies and resellers.
+
+Q: How do I get started?
+A: Reach out via Discord or contact form with a short description of what you want. We will reply with a quote, timeline, and clarifying questions.

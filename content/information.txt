@@ -1,0 +1,58 @@
+ABOUT SERVERFORGE
+
+ServerForge is where digital communities are born.
+
+We are a specialized two-person studio dedicated to crafting fully launch-ready Minecraft servers and Discord communities for creators, gaming groups, content creators, school clubs, businesses, and hobbyists who want to skip months of setup and start building their community immediately.
+
+OUR STORY
+
+ServerForge was founded by two passionate developers and community architects who were frustrated by how much time setup really takes. Building a high-quality Minecraft and Discord ecosystem can require hundreds of hours:
+
+- Plugin configuration
+- Gameplay balancing
+- Role and permission systems
+- Bot integrations
+- World and spawn design
+- Welcome and onboarding flows
+- Moderation structure
+
+We created ServerForge to remove that burden from clients so they can focus on growth, events, and community engagement.
+
+WHAT WE FORGE
+
+Every project is hand-crafted. We do not sell copy-paste templates. We build tailored ecosystems around your exact vision.
+
+Examples include:
+
+- Survival SMP with custom mechanics
+- Minigame hubs
+- Roleplay worlds
+- Fully moderated Discord communities
+- Standalone custom plugins
+- Standalone data packs and resource packs
+
+IMPORTANT SCOPE NOTE
+
+We specialize in server-side work.
+
+- Custom Discord bots are delivered as source code only (you host it).
+- We can guide you through free or low-cost hosting options.
+- We do not create custom Minecraft mods (Forge/Fabric).
+- We do build plugins, data packs, resource packs, maps, and configurations.
+
+OUR PHILOSOPHY
+
+- Quality over quantity: every project gets full attention.
+- Launch-ready, not launch-eventually: you can open the same day we deliver.
+- You own everything: all files, configs, and assets are yours forever.
+- Communication first: you stay involved throughout production.
+
+WHO WE SERVE
+
+- Streamers
+- YouTubers
+- Gaming communities
+- School clubs
+- Indie game studios
+- Businesses launching gamified communities
+- Individual hobbyists who want professional results without technical headache
