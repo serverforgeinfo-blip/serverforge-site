@@ -7,7 +7,7 @@ Q: Do you provide hosting too?
 A: No. We focus on forging the build itself. We recommend trusted hosting providers and provide full upload and deployment instructions.
 
 Q: Do you make custom Minecraft mods?
-A: No. We do not create Forge/Fabric mods. We specialize in plugins (Paper/Spigot/Purpur), data packs, resource packs, builds, and server configurations.
+A: No. We do not create Forge/Fabric mods. We specialize in plugins (Paper/Spigot/Purpur), data packs, builds, and server configurations. We also do not create texture packs.
 
 Q: Do you build custom Discord bots from scratch?
 A: Yes, as code delivery only. You receive a clean, documented codebase that you host. We can point you to free hosting options like Railway, Replit, or VPS providers.
