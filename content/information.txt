@@ -29,7 +29,7 @@ Examples include:
 - Roleplay worlds
 - Fully moderated Discord communities
 - Standalone custom plugins
-- Standalone data packs and resource packs
+- Standalone data packs
 
 IMPORTANT SCOPE NOTE
 
@@ -38,7 +38,8 @@ We specialize in server-side work.
 - Custom Discord bots are delivered as source code only (you host it).
 - We can guide you through free or low-cost hosting options.
 - We do not create custom Minecraft mods (Forge/Fabric).
-- We do build plugins, data packs, resource packs, maps, and configurations.
+- We do not create texture packs.
+- We do build plugins, data packs, maps, and server configurations.
 
 OUR PHILOSOPHY
 
